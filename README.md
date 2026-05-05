@@ -16,6 +16,6 @@ markdown
 ---
 ## Как запустить
 ```bash
-git clone https://github.com/danil050308ru-creator/weather_diary.git
-cd weather_diary
+git clone https://github.com/danil050308ru-creator/smas.git
+cd smas
 python main.py
